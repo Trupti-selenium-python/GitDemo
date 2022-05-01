@@ -12,3 +12,5 @@ driver.switch_to.window(driver.window_handles[0])
 
 assert "Opening a new window" == driver.find_element_by_tag_name("h3").text
 print("Added a new line in Git Demo------------")
+print("New lones id develop branch..........")
+
